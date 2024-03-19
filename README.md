@@ -1,2 +1,2 @@
 # Snake-SpaghettiCode
-This is one of my first project that I have written before knowing what git was and how to use it. I decided to store this project in my repository to showcase my progress
+This is one of my first projects, written before I've learnt about version control systems like git. I decided to store this project in my repository to showcase my progress. Date of completion of this project is: 05.02.2023
